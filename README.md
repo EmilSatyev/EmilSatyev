@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @EmilSatyev
 - 👀 I’m interested in frontend development
-- 🌱 I’m currently learning TypeScript
 - 📫 How to reach me [t.me/EmilSatyev](https://t.me/EmilSatyev)
 
 <h3>Languages and Tools:</h3>
